@@ -1,21 +1,21 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "LIOR_BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "liordata0com-KRts.aternos.me",
     "port": 12644,
-    "version": "",
+    "version": "1.21.5",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 100,
     "y": 100,
-    "z": 0
+    "z": 100
   },
   "utils": {
     "auto-auth": {
